@@ -5,7 +5,7 @@ Tools: Nikto, OWASP ZAP, OpenVAS, Metasploit Framework, Nessus, Nmap
 Description: Conducted vulnerability assessments to detect web security flaws.
 
 Steps Taken:
-1. Ran `nikto -h <target>` to scan for vulnerabilities.
+1. Ran nikto to scan for vulnerabilities.
 2. Analyzed Nikto scan results and flagged security issues.
 3. Conducted further scanning using OpenVAS, nikto, OWASP ZAP, Nessus and Nmap to detect deeper vulnerabilities.
 4. Documented findings and recommended mitigation strategies.
