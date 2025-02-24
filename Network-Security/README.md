@@ -5,9 +5,9 @@ Tools Used: pfSense, UFW
 Description: Explored network security by scanning and configuring firewall rules.
 
 Steps Taken:
-1. Installed and configured **pfSense** for network filtering.
+1. Installed and configured pfSense for network filtering.
 2. Set up firewall rules to allow and restrict network traffic.
-3. Used UFW (Uncomplicated Firewall)** to block unauthorized access.
+3. Used UFW (Uncomplicated Firewall) to block unauthorized access.
 4. Monitored logs and tested network security effectiveness.
 
 
