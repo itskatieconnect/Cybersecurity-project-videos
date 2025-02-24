@@ -10,4 +10,6 @@ Steps Taken:
 3. Analyzed real-time logs to detect security incidents.
 4. Investigated potential threats and reported findings.
 
+https://www.linkedin.com/posts/itskatieconnect_cybersecurity-siem-wazuh-activity-7285634418319233024-fZpI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC5I4fcB0Ft5lXwG5wulM1MvwtLreDFl9LM
 
+![Screenshot 2025-02-24 132222](https://github.com/user-attachments/assets/818264c3-ff20-418c-a16c-fc8ae5abe6bc)
