@@ -1,0 +1,13 @@
+SIEM Analysis
+
+Objective: Monitor and analyze security logs using SIEM tools.  
+Tools Used: Splunk, Wazuh  
+Description: Set up and configured SIEM tools to detect security threats.
+
+Steps Taken:
+1. Installed Splunk and created custom dashboards for log analysis.
+2. Configured Wazuh to monitor system events and generate alerts.
+3. Analyzed real-time logs to detect security incidents.
+4. Investigated potential threats and reported findings.
+
+
