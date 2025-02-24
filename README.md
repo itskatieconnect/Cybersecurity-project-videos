@@ -56,12 +56,21 @@ Description: Demonstrated cross-site scripting (XSS) vulnerabilities and exploit
 
 [XSS Attack Video](https://www.linkedin.com/posts/itskatieconnect_cybersecurity-xssattack-metasploit-activity-7284539698675404800-Erui)
 
+SQL Injection
+[SQL Injection Video](https://youtu.be/9OTL-f-wU7A?si=Bkci6vs5_LKM_xcG)
+
 
 
 Windows Lockout Policy  
 Description: Explored Windows security policies to prevent unauthorized access.
 
 [Windows Lockout Policy Video](https://www.linkedin.com/posts/itskatieconnect_cybersecurity-cybergirl-windows-activity-7252287170466471936-McJg)
+
+
+[Encoding and Decoding with Kali Linux](https://youtube.com/shorts/N2pZwyb_iHk?si=hzHdo076oNCC47NL)
+
+[Analysing malicious links using Virustotal and Any.run](https://youtube.com/shorts/IetVx1cqZx8?si=yy6sB9MfX9nex71e)
+
 
 
 
